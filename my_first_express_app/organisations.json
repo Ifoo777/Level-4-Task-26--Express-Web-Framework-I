@@ -1,0 +1,9 @@
+{
+    "organisations":[
+        {"name": "New World Consulting", "email":"hello@newworld.org", "pty_ltd": true},
+        {"name": "BarloWorld", "email":"barloworld@email.com", "pty_ltd": true},
+        {"name": "Builders", "email":"builders@email.com", "pty_ltd": true},
+        {"name": "Steel 24", "email":"steel24@email.com", "pty_ltd": true},
+        {"name": "PPC", "email":"ppc@email.com", "pty_ltd": true}
+    ]
+}
